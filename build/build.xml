@@ -49,7 +49,7 @@
 			</zipgroupfileset>
 
 			<manifest>
-				<attribute name="Main-Class" value="net.sf.cram.ont.EventAlignReader" />
+				<attribute name="Main-Class" value="uk.ac.ebi.ena.ont.Identity" />
 				<attribute name="Class-Path" value="" />
 				<attribute name="Built-By" value="${user.name}" />
 				<attribute name="Implementation-Version" value="${version.num}-b${build.number}" />
